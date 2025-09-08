@@ -1,7 +1,7 @@
 /**
  * Jest setup file that runs before all tests
  */
-
+/**
 import dotenv from 'dotenv';
 import path from 'path';
 
@@ -67,3 +67,4 @@ beforeEach(() => {
 afterEach(() => {
   jest.restoreAllMocks();
 });
+*/
